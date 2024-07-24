@@ -1,0 +1,190 @@
+#name {
+    width: 40%;
+    height: 40%;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 1;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+
+#gallery {
+    width: 35%;
+    height: 55%;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-right: 300px;
+    margin-top: 210px;
+}
+
+#comics {
+    width: 30%;
+    height: 55%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 850px;
+    margin-top: 200px;
+}
+
+#characters {
+    width: 30%;
+    height: 55%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 200px;
+}
+
+#comics2 {
+    width: 30%;
+    height: 55%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+
+#characters2 {
+    width: 30%;
+    height: 55%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+
+#gallery2 {
+    width: 30%;
+    height: 55%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+
+#trey_nm {
+    width: 55%;
+    height: 30%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 400px;
+}
+#chizuki_nm {
+    width: 55%;
+    height: 30%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 700px;
+}
+#kiwi_nm {
+    width: 55%;
+    height: 30%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 1000px;
+}
+#comic1 {
+    width: 45%;
+    height: 65%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 330px;
+    margin-top: 250px;
+}
+#comictext {
+    width: 30%;
+    height: 45%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 300px;
+}
+
+#rightb {
+    width: 35%;
+    height: 216%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 830px;
+    margin-top: -10px;
+}
+
+#leftb {
+    width: 55%;
+    height: 216%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -10px;
+}
+
+#por {
+    width: 35%;
+    height: 53%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 300px;
+}
+
+#gal {
+    width: 40%;
+    height: 150%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 350px;
+}
+
+#info {
+    width: 55%;
+    height: 45%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 280px;
+}
+
+#cname {
+    width: 40%;
+    height: 40%;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 70px;
+    margin-bottom: 300px;
+}
+
+#grad {
+ height: 700px;
+ background-image: linear-gradient(rgb(20, 151, 20), red);
+}
+#gradkiwi {
+    height: 700px;
+    background-image: linear-gradient(rgb(76, 120, 162), rgb(32, 66, 90));
+}
+
+#gradtrey {
+    height: 700px;
+    background-image: linear-gradient(rgb(31, 146, 48), rgb(35, 103, 44));
+}
+
+#gradchizuki {
+    height: 700px;
+    background-image: linear-gradient(rgb(151, 34, 50), rgb(95, 30, 45));
+}
+
+#grad2 {
+    height: 1400px;
+    background-image: linear-gradient(rgb(20, 151, 20), red);
+}
+
